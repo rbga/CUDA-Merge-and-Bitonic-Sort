@@ -182,9 +182,13 @@ bool isPowerOfTwo(int num)
 
 //MAIN PROGRAM
 int main()
-{
+{   
+    std::cout << "-----------------------------------------------" << std::endl;
+    std::cout << "CUDA MERGE AND BITONIC SORT IMPLEMENTATION" << std::endl;
+    std::cout << "A Performance Comparison of These 2 Sorts in CPU vs GPU" << std::endl;
+    std::cout << "-----------------------------------------------" << std::endl;
     int choice;
-    std::cout << "Select the type of sort:";
+    std::cout << "\nSelect the type of sort:";
     std::cout << "\n\t1. Merge Sort";
     std::cout << "\n\t2. Bitonic Sort";
     std::cout << "\nEnter your choice: ";
