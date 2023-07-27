@@ -67,3 +67,18 @@ Contributions to this project are welcome. If you find any issues or have improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
+
+## Outputs
+![image](https://github.com/rbga/CUDA-Merge-and-Bitonic-Sort/assets/75168756/510c4afb-1aa7-4add-abba-41e2fb0db8bb)
+Testing the inputs and Merge Sort with a Small Array
+![image](https://github.com/rbga/CUDA-Merge-and-Bitonic-Sort/assets/75168756/49b813d1-f997-49a8-bae9-216cc149de6e)
+Testing Bitonic Sort with a Small Array
+![image](https://github.com/rbga/CUDA-Merge-and-Bitonic-Sort/assets/75168756/2348af41-6314-4964-a95b-7282e8d42dde)
+Merge Sort CPU vs GPU performance for a large Array
+![image](https://github.com/rbga/CUDA-Merge-and-Bitonic-Sort/assets/75168756/0e2b662b-165c-43ab-9d30-51dfc6ebd132)
+Bitonic Sort CPU vs GPU performance for a large Array.
+
+Clearly Bitonic Sort performs well in a Parallel Computation while Merge Sort performs well in a linear computation.
+
+
+
